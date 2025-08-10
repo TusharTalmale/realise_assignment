@@ -37,3 +37,7 @@ lib/
 ├── mock_data.dart # Sample tasks
 └── main.dart # App entry point
 ```
+
+https://github.com/user-attachments/assets/2812fa3d-5f3c-48bc-aa76-8c69b4a0aeed
+
+
